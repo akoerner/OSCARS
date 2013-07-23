@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type
+END
+CtrlPlaneAdministrativeGroup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneAdministrativeGroup.pm
+END
+CtrlPlaneDomainContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneDomainContent.pm
+END
+CtrlPlaneTopologyContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneTopologyContent.pm
+END
+CtrlPlaneSwcapContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneSwcapContent.pm
+END
+CtrlPlanePortContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlanePortContent.pm
+END
+CtrlPlaneAddressContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneAddressContent.pm
+END
+CtrlPlaneNextHopContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneNextHopContent.pm
+END
+CtrlPlaneNodeContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneNodeContent.pm
+END
+Duration.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/Duration.pm
+END
+CtrlPlaneHopContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneHopContent.pm
+END
+CtrlPlaneSwitchingCapabilitySpecificInfo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneSwitchingCapabilitySpecificInfo.pm
+END
+CtrlPlaneDomainSignatureContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneDomainSignatureContent.pm
+END
+TimeContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/TimeContent.pm
+END
+CtrlPlanePathContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlanePathContent.pm
+END
+CtrlPlaneLinkContent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/CtrlPlaneLinkContent.pm
+END
+Lifetime.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/perfSONAR-PS/!svn/ver/3658/trunk/Shared/lib/OSCARS/ns002/Type/Lifetime.pm
+END
