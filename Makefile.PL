@@ -3,5 +3,6 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(
     'NAME'	=> 'OSCARS',
-    'VERSION'     => '0.0',
+    'VERSION'   => '1.0', 
+    'PREREQ_PM' =>{"XML::Pastor" => 0,}
 );
